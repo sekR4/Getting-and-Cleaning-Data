@@ -2,14 +2,16 @@ Sourcing “run_analysis.R” creates a tidy data set “tidy_measurements.txt�
 
 
 # Factors
-subject:	participant ids
-activity:	6 different activities performed by the participants                     
-	1 WALKING
-	2 WALKING_UPSTAIRS
-	3 WALKING_DOWNSTAIRS
-	4 SITTING
-	5 STANDING
-	6 LAYING
+subject: participant ids
+
+activity: 6 different activities performed by the participants                     
+
+1 WALKING
+2 WALKING_UPSTAIRS
+3 WALKING_DOWNSTAIRS
+4 SITTING
+5 STANDING
+6 LAYING
 
 
 # Variables 
